@@ -9,3 +9,6 @@
 
 
 [!INCLUDE[ATA](../token/ATA.md)] 
+
+## Token
+ [!INCLUDE[ATA](../token/ATA.md)]
